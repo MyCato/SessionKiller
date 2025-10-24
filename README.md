@@ -81,7 +81,7 @@ Edit `config.json`:
 python main.py
 ```
 
-## 🎮 Bot Commands
+## Bot Commands
 
 Once your bot is running, message yourself on Telegram with these commands:
 
