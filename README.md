@@ -33,7 +33,7 @@ That's it! The setup script will:
 ## 📋 Requirements
 
 - Python 3.7 or higher
-- A Telegram account
+- A Telegram account with no two-step verification 
 - Telegram API credentials (the bot will help you get these automatically)
 
 ## ⚙️ Manual Setup
