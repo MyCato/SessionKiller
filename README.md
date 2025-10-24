@@ -1,4 +1,4 @@
-# 🛡️ Telegram Session Killer Bot
+# Telegram Session Killer Bot
 
 A powerful Python bot that monitors your Telegram login sessions in real-time and automatically logs out untrusted devices to protect your account from unauthorized access.
 
@@ -17,8 +17,8 @@ A powerful Python bot that monitors your Telegram login sessions in real-time an
 ### One-Command Setup
 
 ```bash
-git clone https://github.com/yourusername/TG_loginBOT.git
-cd TG_loginBOT
+git clone https://github.com/MyCato/SessionKiller.git
+cd SessionKiller
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -43,8 +43,8 @@ If you prefer manual setup:
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/TG_loginBOT.git
-cd TG_loginBOT
+git clone https://github.com/MyCato/SessionKiller.git
+cd SessionKiller
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 pip install -r requirements.txt
@@ -178,3 +178,4 @@ For additional help, please open an issue on GitHub.
 ---
 
 **⭐ If this bot helped secure your Telegram account, please consider giving it a star!**
+
