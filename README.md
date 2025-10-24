@@ -1,4 +1,4 @@
-# 🛡️ Telegram Session Monitor Bot
+# 🛡️ Telegram Session Killer Bot
 
 A powerful Python bot that monitors your Telegram login sessions in real-time and automatically logs out untrusted devices to protect your account from unauthorized access.
 
